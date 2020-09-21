@@ -1,4 +1,4 @@
-The following Custodians, ES and Corporate Actions have been chosen for the implementation of the Clearing & Settlement System:
+The following Custodians, ES and Corporate Actions have been chosen for implementing the Clearing & Settlement System:
 
 ### Clearing Members
   + Citi
